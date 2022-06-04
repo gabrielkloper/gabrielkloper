@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that can possibly improve my programming skills. I literally mean anything
 - 📫 How to reach me [...
 ](https://www.linkedin.com/in/gabriel-kloper-estrella/)
-(https://twitter.com/gkloper)
+
 
 <!---
 gabrielkloper/gabrielkloper i[...
