@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielkloper!!!!
 - 👀 I’m interested in coffe, programming, videogames, music and moviess
-- 🌱 I’m currently learning JavaScript, CSS, HTML and PYTHON
+- 🌱 I’m currently learning JavaScript, CSS, HTML and JAVA
 - 💞️ I’m looking to collaborate on anything that can possibly improve my programming skills. I literally mean anything
 - 📫 How to reach me [...
 ](https://www.linkedin.com/in/gabriel-kloper-estrella/)
